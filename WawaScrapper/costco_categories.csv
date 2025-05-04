@@ -1,0 +1,247 @@
+category_id,category_name,total_products
+commercial-restaurant.html,Commercial & Restaurant Appliances,10
+cooking-appliances.html,Cooking Appliances,119
+dishwashers.html,Dishwashers,46
+freezers-ice-makers.html,Freezers & Ice Makers,25
+cooling-air-treatment-heating.html,"Heating, Cooling & Air Quality",57
+kitchen-suites.html,Kitchen Appliance Packages,21
+microwaves.html,Microwaves,23
+refrigerators.html,Refrigerators,146
+small-kitchen-appliances.html,Small Kitchen Appliances,93
+small-space-appliances.html,Small Space Appliances,16
+vacuums-floor-care.html,Vacuums & Floor Cleaning,49
+laundry-appliances.html,Washers & Dryers,463
+wine-cellars-coolers.html,Wine Coolers & Beverage Refrigerators,18
+health-safety.html,Baby Care & Safety,6
+diapers-wipes.html,"Baby Diapers, Wipes & Training Pants",12
+formula-feeding.html,Baby Formula & Feeding,15
+car-seats-boosters.html,Car & Booster Seats,1
+nursery-furniture-decor.html,Nursery & Baby Furniture,15
+bath-body.html,Bath & Body,15
+beauty-gift-sets.html,Beauty Gift Sets,11
+skin-vitamins-supplements.html,Beauty Supplements,3
+beauty-tools-accessories.html,Beauty Tools & Accessories,29
+fragrances.html,Fragrances,53
+hair-care.html,Hair Care,50
+cosmetics.html,Makeup,18
+nail-care.html,Nail Care,2
+skin-care.html,Skin Care,235
+sun-care.html,Sunscreen & Sun Care,15
+babies-clothing.html,Clothing for Babies,10
+kids-clothing.html,Clothing for Kids,29
+mens-clothing.html,Clothing for Men,177
+womens-clothing.html,Clothing for Women,236
+youth-clothing.html,Clothing for Youth,41
+dresswear.html,Dresswear,30
+college-apparel.html,Fan Gear,10
+handbags-wallets.html,Handbags & Wallets,8
+holiday-clothing.html,Holiday Clothing,7
+luggage.html,Luggage,43
+shoes.html,Shoes,64
+sunglasses.html,Sunglasses,75
+workwear.html,Workwear,15
+computer-accessories.html,Computer Accessories,6
+software.html,Computer Software,7
+desktops-servers.html,Desktop Computers & PCs,37
+hard-drives-memory.html,"Hard Drives, SSD & Storage",5
+tablet-computers-accessories.html,iPad & Tablets,39
+laptops.html,Laptops,109
+monitors.html,Monitors,32
+pc-gaming.html,PC Gaming,16
+InkTonerRibbons.html,Printer Ink & Toner Cartridges,20
+printers-all-in-ones-scanners.html,Printers,14
+routers-networking.html,"Routers, Wifi Extenders & Modems",8
+costco-direct-appliances.html,Appliances,2
+costco-direct-fitness.html,Fitness,2
+costco-direct-furniture.html,Furniture,2
+costco-direct-home-upgrades.html,Home Upgrades,2
+costco-direct-mattresses.html,Mattresses,2
+costco-direct-patio-garden.html,Patio & Garden,2
+costco-direct-toys.html,Toys,2
+costco-direct-tvs.html,TVs,2
+costco-next-menu.html,Costco NEXT™,91
+protection-plans.html,Allstate Protection Plans,17
+apple-brand-showcase.html,Apple Products,78
+audio-video.html,Audio/Video,49
+batteries.html,Batteries,8
+cameras-camcorders.html,Cameras & Drones,4
+cell-phones.html,Cell Phones & Accessories,15
+digital-codes.html,Gaming Gift Cards,10
+musical-instruments.html,Musical Instruments,17
+phones-two-way-radios.html,Phones & Two-way Radios,3
+security-surveillance.html,Security Cameras & Home Security Systems,41
+home-alarm-systems-automation.html,Smart Home & Home Automation,76
+televisions.html,TVs,144
+video-games.html,Video Games & Consoles,43
+wearable-technology.html,Wearable Technology,30
+floral.html,Flowers,52
+gift-baskets.html,Gift Baskets,131
+bedroom-furniture.html,Bedroom Furniture,181
+entryway-furniture.html,Entryway Furniture,42
+fireplaces.html,Fireplaces and Stoves,17
+youth-furniture.html,Kids' & Baby Furniture,38
+dining-kitchen.html,Kitchen & Dining Room Furniture,100
+living-room.html,Living Room Furniture,209
+office-furniture.html,Office & Home Office Furniture,103
+cash-cards-gift-certificates.html,Costco Shop Cards,2
+lifestyle-spa-gift-cards.html,Entertainment & Lifestyle Gift Cards,10
+health-wellness-gift-cards.html,Health & Wellness Gift Cards,3
+movie-tickets.html,Movie Tickets,5
+restaurant-gift-cards.html,Restaurant Gift Cards,41
+sports-events-recreation.html,Sports Tickets,23
+concerts-theatre.html,Theater & Live Events,3
+theme-park-attractions.html,Theme Parks & Attractions,12
+travel-gift-cards.html,Travel Gift Cards & Passes,7
+all-costco-grocery.html,2-Day Delivery,121
+cakes-cookies.html,Bakery & Desserts,31
+beverages.html,Beverages & Water,150
+breakfast.html,Breakfast,21
+candy.html,Candy,161
+cheese.html,Cheese & Dairy,4
+household-cleaning.html,Cleaning Supplies,114
+coffee-sweeteners.html,Coffee,101
+deli.html,Deli,36
+emergency-kits-supplies.html,Emergency Food Supplies & Kits,32
+kirkland-signature-groceries.html,Kirkland Signature Grocery,126
+meat.html,Meat & Seafood,151
+organic-groceries.html,Organic Groceries,37
+pantry.html,Pantry & Dry Goods,184
+paper-products-food-storage.html,Paper & Plastic Products,103
+same-day-delivery.html,Same-Day Delivery,2
+snacks.html,Snacks,289
+wine.html,"Wine, Champagne & Sparkling",11
+optical.html,Costco Optical,3
+non-prescription-remedies.html,Health & Medicines,170
+hearing-care-products.html,Hearing Care Products,20
+home-health-care.html,Home Health Care,42
+massage-relaxation.html,Massage Equipment,40
+diet-nutrition.html,Nutrition,84
+personal-care.html,Personal Care,194
+reading-glasses.html,Reading Glasses,12
+health-beauty-spa-gifts.html,Spa Gifts & Aromatherapy,7
+immunizations.html,Travel Immunizations,2
+vitamins-herbals-dietary-supplements.html,"Vitamins, Herbals & Dietary Supplements",230
+aids-for-independent-living.html,"Wheelchairs, Walkers & Medical Alert Devices",10
+seasonal-easter.html,Easter,14
+holiday-cards-wrapping-paper.html,"Holiday Cards,Wrapping Paper & Ribbons",4
+holiday-gift-baskets.html,Holiday Gift Baskets,21
+mothers-day.html,Mother's Day,2
+bath-remodel.html,Bath Remodeling,1
+cabinet-refacing.html,Cabinet Refacing,1
+carpet-hardwood-laminate-flooring.html,Carpet & Flooring Installation,1
+countertops.html,Countertop Installation,1
+window-treatment.html,"Custom Blinds, Shades & Shutters",1
+garage-doors.html,Garage Door & Opener Installation,1
+standby-generators.html,Generator Installation,1
+closest-organization.html,Home Organization Services,1
+hvac.html,HVAC Installation,1
+water-filtration.html,Water Treatment Services,1
+windows-doors.html,Windows & Doors,1
+bath.html,Bath,184
+bedding.html,Bedding,192
+bakeware-cookware.html,Cookware & Bakeware,86
+kitchen-dining-cutlery.html,Cutlery & Kitchen Knives,31
+glassware-bar.html,Glassware & Drinkware,38
+home-decor.html,Home Decor,110
+kitchen-linens.html,Kitchen Linens & Towels,14
+storage-organization-kitchen.html,Kitchen Storage & Organization,71
+kitchen-utensils-gadgets.html,Kitchen Utensils & Gadgets,26
+rugs.html,Rugs,336
+sewing-garment-care.html,Sewing & Garment Care,5
+kitchen-dining.html,Tableware,92
+hardware-bathroom.html,Bathroom Remodel & Renovations,125
+building-materials.html,Building Supplies,11
+fire-safety.html,Fire Safety,7
+flooring.html,Flooring,21
+garage.html,Garage,48
+generators.html,Generators,29
+hardware-kitchen.html,Kitchen Remodel & Renovations,77
+lighting.html,Lighting & Ceiling Light Fixtures,100
+hardware-safes.html,Safes,16
+storage-organization.html,Storage & Organization,38
+tools.html,Tools & Hardware,23
+bracelets.html,Bracelets,69
+earrings.html,Earrings,219
+necklaces.html,Necklaces,250
+precious-metals.html,Precious Metals,5
+rings.html,Rings,276
+watches.html,Watches,106
+adjustable-beds.html,Adjustable Beds,11
+cal-king-mattresses.html,California King Size Mattresses,28
+full-mattresses.html,Full Size Mattresses,21
+king-mattresses.html,King Size Mattresses,44
+queen-mattresses.html,Queen Size Mattresses,45
+twin-mattresses.html,Twin Size Mattresses,13
+twin-xl-mattresses.html,Twin XL Size Mattresses,4
+office-supplies.html,Basic Office Supplies,11
+office-binders-supplies.html,"Filing, Binders & Storage",9
+janitorial-supplies.html,Janitorial & Breakroom Supplies,24
+mailing-shipping.html,"Mailing, Packing & Shipping Supplies",10
+business-equipment.html,Office Electronics,24
+office-paper.html,Paper,8
+writing-supplies.html,Writing Supplies,10
+outdoor-outdoor-play.html,Backyard Playground Sets,15
+greenhouses.html,Greenhouses,12
+grills-accessories.html,Grills & Outdoor Cooking,58
+spas-pools.html,"Hot Tubs, Spas & Pools",35
+landscaping.html,Landscaping,32
+garden-center.html,Lawn Care & Gardening Supplies,91
+outdoor-heating-cooling.html,Outdoor Heating & Cooling,31
+outdoor-power-equipment.html,Outdoor Power Equipment,37
+sheds.html,Outdoor Storage Sheds,33
+patio-furniture.html,Patio & Outdoor Furniture,291
+outdoor-structures.html,Patio Covers & Shade Structures,61
+live-plants.html,"Plants, Bulbs & Seeds",104
+awnings-window-coverings.html,"Window Treatments, Awnings & Sun Shades",4
+cat-food.html,Cat Food,6
+cat-supplies.html,Cat Trees,5
+flea-tick.html,"Dewormer, Flea & Tick Treatment",17
+dog-beds.html,Dog Beds,10
+dog-food.html,Dog Food,16
+pet-clothing-accessories.html,Pet Clothing & Accessories,7
+houses-kennels-crates.html,Pet Enclosures,16
+pet-grooming-waste-management.html,Pet Grooming & Waste Management,8
+pet-supplements.html,Pet Supplements,21
+pet-technology.html,Pet Technology,8
+pet-food-treats.html,Pet Toys & Treats,34
+special-events-menu.html,Special Events,119
+beach.html,Beach,121
+bikes-boards.html,"Bikes, Scooters & Boards",20
+camping.html,Camping Gear,95
+fishing-wildlife.html,Fishing & Hunting,26
+exercise-fitness.html,Fitness & Exercise Equipment,47
+game-room.html,Game Room,20
+sports-fitness-golf.html,Golf,60
+outdoor-games-sports-equipment.html,Outdoor Games & Sports Equipment,14
+saunas.html,Saunas,15
+sports-memorabilia.html,Sports Memorabilia & Collectibles,94
+tailgating.html,Tailgating Essentials,36
+boating-watersports.html,Water Sports,41
+atv-golf-trailer-tires.html,"ATV, Golf & Trailer Tires",12
+auto-truck-accessories.html,Auto & Truck Accessories,51
+car-electronics.html,Car Electronics,12
+automotive-garage.html,Garage & Shop Accessories,12
+garage-flooring.html,Garage Flooring,7
+automotive-batteries.html,Interstate Car & Truck Batteries,13
+motor-oil.html,Motor Oil,18
+tires.html,Tires,2
+wash-wax.html,Wash & Wax,14
+wheels.html,Wheels,1
+arts-crafts-hobby.html,"Arts, Crafts & Hobby",1
+building-blocks.html,Building Blocks & Sets,13
+dollhouses.html,Dolls & Action Figures,1
+pretend-play.html,Dress Up & Pretend Play,4
+toys-outdoor-play.html,Outdoor & Water Toys,16
+board-games-puzzles.html,"Puzzles, Cards & Board Games",5
+ride-on-toys.html,Ride-On Toys,1
+plush-toys.html,Stuffed Animals & Plush Toys,3
+join-costco.html,Join Costco,6
+black-friday.html,Black Friday,3
+buying-guides.html,Buying Guides,2
+hearing-aid-center.html,Costco Hearing Aid Center,4
+services.html,Costco Services for Members,9
+cyber-monday-offers.html,Cyber Monday,1
+featured-brands.html,Explore Our Brands,2
+funeral.html,Funeral,9
+whats-new.html,New Items,233
+pharmacy.html,Pharmacy,2
