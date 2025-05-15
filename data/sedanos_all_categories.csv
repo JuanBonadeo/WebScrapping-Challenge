@@ -1,0 +1,1146 @@
+internal_id,category_name,total_products
+22394611,Shop,34699
+22394612,Bakery,393
+22394613,"Beer, Wine & Spirits",636
+22394614,Dairy,971
+22394615,Deli,269
+22394616,Frozen Foods,1093
+22394617,Home & Floral,278
+22394618,Meat,533
+22394619,Pantry,10636
+22394620,Produce,393
+22394621,Seafood,92
+22394622,Breads from the Aisle,123
+22394623,Buns & Rolls,46
+22394624,Freshly Baked & Artisan Bread,19
+22394626,Packaged Sweets & Desserts,5
+22394627,Refrigerated Dough,3
+22394629,Specialty,2
+22394631,Sweets & Desserts,156
+22394633,Barware & Accessories,5
+22394634,Beer,274
+22394635,Cocktail Mixes & Mixers,4
+22394636,Coolers,1
+22394638,Liquor,20
+22394639,Wine & Champagne,312
+22394640,Biscuits & Dough,35
+22394641,Butter & Margarine,75
+22394642,Cheese,290
+22394644,Cottage Cheese & Sour Cream,35
+22394645,Eggs,30
+22394646,Juice and Drinks,106
+22394647,Milk & Cream,158
+22394648,Milk Alternatives,51
+22394649,Pudding & Gelatin,32
+22394650,Yogurt,134
+22394653,Drinks,4
+22394654,Freshly Sliced Cheese,50
+22394655,Freshly Sliced Meat,63
+22394656,Hot Food and Prepared,124
+22394657,Lunch Meat,1
+22394659,Packaged Cheese,2
+22394660,Party Favorites,7
+22394661,Pasta & Salads,2
+22394662,Appetizers & Snacks,66
+22394663,Bread & Dough,43
+22394664,Breakfast Food,42
+22394665,Desserts,7
+22394666,"Fruit, Drinks & Juices",46
+22394668,"Ice Cream, Treats & Toppings",361
+22394669,Meals & Entrees,244
+22394670,Meat Substitutions,2
+22394671,"Meat, Seafood & Poultry",58
+22394672,Pizza,32
+22394673,Sides,2
+22394674,Vegetables,129
+22394675,Floral,48
+22394676,Home,224
+22394677,Bacon,22
+22394678,Beef & Steak,105
+22394679,Brats & Sausages,41
+22394680,Chicken,58
+22394682,Duck & Game,1
+22394683,Frozen Meat,14
+22394684,Goat,1
+22394685,Ham,20
+22394686,Lamb & Veal,3
+22394687,Meat Alternatives,2
+22394688,Meatballs & Meatloaf,3
+22394689,"Packaged Hot Dogs, Sausages & Lunch Meat",125
+22394690,Packaged Meats,11
+22394691,Pork,98
+22394692,Smokehouse,1
+22394693,Turkey,21
+22394694,Baby,279
+22394695,Beverages,1531
+22394696,"Canned Goods, Soups & Broths",951
+22394697,Cereal & Breakfast Foods,222
+22394698,"Condiments, Sauces & Marinades",483
+22394699,Cooking & Baking Needs,892
+22394700,Health & Personal Care,1223
+22394701,Household,1270
+22394702,International & World Foods,1080
+22394703,Packaged Meals & Side Dishes,80
+22394704,Pasta & Pasta Sauce,300
+22394705,"Peanut Butter, Jelly & Spreads",119
+22394706,Pet,216
+22394707,"Rice, Grains & Dried Beans",222
+22394708,"Salad Dressings, Oil & Vinegar",274
+22394709,"Snacks, Chips & Dips",1318
+22394710,Dips & Mixes,3
+22394711,Fresh Vegetables,107
+22394713,Hand Cut Fruits & Vegetables,21
+22394714,Herbs & Mushrooms,23
+22394715,Infused Water & Juice,3
+22394716,Lettuce & Salads,30
+22394718,Organic Fruits & Vegetables,50
+22394720,Root Vegetables & Tropical Roots,9
+22394721,"Salad Dressing, Toppings",3
+22394727,Fresh Fish Fillets & Steaks,26
+22394729,Frozen Seafood,1
+22394731,Lobster & Crab,6
+22394736,Shellfish,1
+22394737,Shrimp & Scallops,27
+22394738,Smoked & Cured,2
+22394740,Squid & Octopus,6
+22394741,Whole Fish,10
+22394742,Bagels & Muffins,13
+22394743,English Muffins,5
+22394744,French & Italian,3
+22394745,Gluten Free,1
+22394746,Multi-Grain & Whole Wheat Bread,31
+22394748,Pumpernickel & Rye,3
+22394749,Specialty Bread,5
+22394750,Sweet Bread,11
+22394751,Tortillas & Pitas,8
+22394752,White & Sourdough Bread,13
+22394753,Freshly Baked,8
+22394754,From the Aisle,35
+22394755,Bagels & Croissants,3
+22394756,"Baguettes, Italian & French Bread",2
+22394757,Breadsticks,1
+22394759,Sweet,6
+22394766,Cookies,2
+22394773,Cakes,36
+22394774,Caramel Apples & Specialty Treats,1
+22394775,Cookies & Treats,45
+22394776,Donuts & Pastries,39
+22394777,Muffins & Cupcakes,9
+22394778,Pies & Tarts,12
+22394779,Ale & IPA,20
+22394780,Hard Ciders,3
+22394781,Lagers,97
+22394782,Malt Beverages,11
+22394783,Non-Alcoholic,5
+22394784,Pilsner,7
+22394785,Porter & Stout,2
+22394786,Seasonal & Craft,29
+22394787,Wheat,1
+22394790,Liqueur,6
+22394791,Mix,8
+22394792,Rum,1
+22394795,Vermouth,2
+22394798,Champagne & Sparkling Wines,17
+22394799,Dessert & Sweet Wines,10
+22394800,Fruit Flavored,1
+22394802,Red Wine,128
+22394803,Rose Wines,5
+22394804,White Wine,78
+22394805,Bagels,4
+22394806,Biscuits,9
+22394808,Buns & Rolls,12
+22394809,Cookies,6
+22394811,Pastries,1
+22394812,Pizza,1
+22394815,Margarine & Butter Substitutes,39
+22394816,Salted Butter,16
+22394817,Unsalted butter,7
+22394818,Whipped Butter,1
+22394819,Artisan & Specialty,76
+22394820,Packaged,136
+22394821,"Snacking Cheese, Spreads & Dips",70
+22394822,Cottage Cheese,18
+22394823,Sour Cream,14
+22394824,Cage-Free,1
+22394825,Egg Substitutes,4
+22394827,Everyday,7
+22394828,Liquid Eggs,1
+22394829,Organic,2
+22394830,Creamers,57
+22394831,Milk,100
+22394832,Almond Milk,18
+22394833,Coconut Milk,13
+22394834,Rice Milk,5
+22394835,Soy Milk,7
+22394836,Flavored,8
+22394837,Greek,33
+22394838,Kefir,3
+22394839,Kids,4
+22394840,Low-Fat & Nonfat,20
+22394843,Soy & Nondairy,7
+22394844,Yogurt Drinks,37
+22394846,Coffee,2
+22394847,Cold,1
+22394848,Hot Chocolate,1
+22394850,American,4
+22394851,Asiago,1
+22394852,Blue,1
+22394854,Cheddar,1
+22394858,Gouda,4
+22394859,Havarti,3
+22394860,Italian,2
+22394862,Mozzarella,6
+22394863,Muenster,4
+22394867,Provolone,1
+22394868,Swiss,5
+22394869,Bologna,1
+22394870,Chicken,1
+22394872,Ham,28
+22394874,Loaf,6
+22394876,Prosciutto,1
+22394878,Salami & Pepperoni,6
+22394880,Turkey,9
+22394881,Baked Goods,1
+22394882,Chicken,8
+22394885,"Dips, Salsa, Spreads",1
+22394888,Pizza,1
+22394890,Rotisserie Chicken,2
+22394891,Salads,1
+22394892,Sandwiches,13
+22394894,Soup,15
+22394896,"Appetizers, Wings & Trays",7
+22394897,Chicken Nuggets & Wings,5
+22394898,Eggs Rolls & Burritos,9
+22394899,Pizza Rolls & Pockets,33
+22394901,Bagels & Biscuits,2
+22394902,Buns & Rolls,2
+22394903,Dough,6
+22394904,Garlic Bread,19
+22394905,Specialty Bread & Toast,11
+22394906,"Bagels, Muffins & Sandwiches",5
+22394907,Egg Dishes,1
+22394908,Pancakes & French Toast,6
+22394909,Pastries,7
+22394910,Sausage,6
+22394911,Waffles,16
+22394913,Pies & Desserts,7
+22394915,Blueberries,2
+22394916,Fruit,28
+22394917,Juices,10
+22394919,Strawberries,1
+22394921,Frozen Yogurt,8
+22394922,Fruit & Juice Bars,11
+22394924,Ice Cream,208
+22394925,Ice Cream Cakes & Pies,27
+22394926,Ice Cream Cones & Toppings,31
+22394927,Non-Dairy Ice Cream & Novelties,1
+22394928,Popsicles,12
+22394929,Sandwiches & Bars,40
+22394930,Sorbet & Sherbet,1
+22394932,Beef,9
+22394933,Chicken,13
+22394935,Easy Meals,4
+22394936,Fish & Seafood,7
+22394937,Healthier Options,2
+22394938,International,84
+22394939,Italian,4
+22394942,Mexican,9
+22394943,Organic,19
+22394944,Pasta & Rice,26
+22394945,Pot Pies,21
+22394946,"Sandwich, Wraps, Pockets",1
+22394948,Turkey,4
+22394949,Vegetarian,9
+22394950,Beef,18
+22394951,Chicken,10
+22394953,Seafood,25
+22394954,Turkey,1
+22394955,Cheese,7
+22394956,Combination,6
+22394957,Meat,10
+22394958,Veggie,1
+22394961,Beans & Peas,7
+22394963,Broccoli,7
+22394964,Brussel Sprouts,1
+22394965,Carrots,1
+22394966,Cauliflower,5
+22394967,Corn,14
+22394969,Green Peppers,1
+22394970,Mixed Vegetables,25
+22394972,Okra,2
+22394974,Potatoes,31
+22394975,Spinach & Greens,5
+22394976,Squash,1
+22394978,Candles and Incense,35
+22394979,Clothing,1
+22394981,Gifts,5
+22394982,Greeting Cards,11
+22394983,Outdoor Activities,3
+22394984,Seasonal,16
+22394985,Specialty Bakeware & Cookware,7
+22394986,Tabletop & Dinnerware,107
+22394987,Toys & Games,20
+22394988,Canadian,1
+22394989,Sliced,15
+22394990,Turkey,2
+22394991,Beef Roasts & Ribs,19
+22394993,Corned Beef,3
+22394994,Ground Beef & Burgers,12
+22394995,"Kabobs, Stew, Cubes & Strips",5
+22394996,Parts,3
+22394997,Steaks & Fillets,31
+22395000,Chicken,2
+22395001,Chorizo,15
+22395003,Polish,1
+22395004,Pork,5
+22395006,Turkey,2
+22395007,Chicken Breasts,10
+22395008,"Chicken Legs, Thighs & Wings",28
+22395009,"Chicken Nuggets, Patties & Tenders",3
+22395010,Ground Chicken,1
+22395012,Parts,6
+22395013,Whole Chicken,7
+22395014,Breakfast,1
+22395015,Burger,1
+22395017,Ground Meat,1
+22395019,Jamaican Patties,1
+22395020,Natural,1
+22395021,Other,1
+22395024,Ready To Cook,5
+22395026,Steak,2
+22395028,Beef,1
+22395031,Bologna,6
+22395032,Chicken,2
+22395033,Ham,19
+22395034,Hot Dogs,30
+22395035,Lunchables & Lunch Packs,19
+22395036,Salami & Pepperoni,13
+22395037,Sausages,12
+22395039,Turkey,11
+22395040,"Burger, Ground Meat",1
+22395041,Heat N Eat,2
+22395044,Misc.,1
+22395048,Salami,3
+22395049,Sides,2
+22395050,Chops & Ribs,25
+22395051,Ground Pork,1
+22395052,Kabobs,2
+22395053,Loins,11
+22395054,Pork Roasts,11
+22395056,Steaks,6
+22395057,Ground Turkey & Burgers,4
+22395059,Turkey Breasts,1
+22395060,"Turkey Legs, Thighs & Wings",3
+22395061,Whole Turkey,3
+22395062,Accessories,12
+22395063,Baby Bath and Shampoo,9
+22395064,Baby Food & Snacks,178
+22395065,Baby Formula,19
+22395066,Baby Lotion and Oil,1
+22395068,Bottles and Cups,2
+22395070,Children's Health,1
+22395074,"Creams, Oils & Ointments",7
+22395075,Diapers & Training Pants,30
+22395076,Junior Food & Snacks,1
+22395078,"Milk, Juices & Drinks",3
+22395083,"Wipes, Refills & Accessories",14
+22395084,Coffee,163
+22395085,"Evaporated Milk, Condensed Milk & Powdered Milk",18
+22395086,Hot Cocoa,12
+22395087,Juice & Lemonade,341
+22395088,Juice-Refrigerated,18
+22395089,Powdered Drinks & Mixes,128
+22395090,Soft Drinks,365
+22395091,Sports & Energy,90
+22395092,Tea,182
+22395093,Water,190
+22395095,Canned & Boxed Soups,203
+22395096,Canned & Packaged Fruit,159
+22395097,Canned Meat,53
+22395098,Canned Mushrooms,3
+22395099,Canned Pasta,4
+22395100,Canned Tuna & Seafood,166
+22395101,Canned Vegetables,357
+22395102,Cereal,96
+22395103,Drinks & Instant,3
+22395104,Fruit Snacks,1
+22395105,Granola & Energy Bars,15
+22395106,Oatmeal & Hot Cereal,56
+22395107,Pancake Mixes & Syrup,25
+22395108,Toaster Pastries & Breakfast Bars,19
+22395109,Condiments,228
+22395110,Cooking Wine,2
+22395113,Sauces & Marinades,237
+22395114,"Baking Chips, Nuts & Bars",19
+22395115,Baking Mixes,55
+22395117,Breadcrumbs & Breadings,30
+22395119,Coconut,2
+22395120,Cooking Oils & Sprays,85
+22395122,Extracts & Coloring,6
+22395123,Flour & Meals,54
+22395124,"Frosting, Toppings & Decorations",77
+22395125,Jello & Pudding Mix,57
+22395126,Marshmallows,6
+22395127,Pie Crusts & Filling,8
+22395128,"Salt, Spices & Seasonings",368
+22395129,Starch,3
+22395130,Stuffing,14
+22395131,Sugars & Sweeteners,77
+22395132,Syrup,3
+22395133,Yeast & Raising Agents,1
+22395136,Cosmetics,3
+22395137,Diet & Fitness,63
+22395138,Hair & Body Care,242
+22395139,Homeopathic,1
+22395141,Medicine Cabinet,311
+22395142,Personal Care,372
+22395143,Skin Care,83
+22395144,Vitamins & Supplements,51
+22395145,Appliances,3
+22395146,Baking & Food Storage,242
+22395147,Charcoal & Grilling,30
+22395148,Cleaning,319
+22395149,Dish Detergent,32
+22395151,Laundry Detergent,104
+22395152,Newspapers & Magazines,1
+22395153,Paper & Plastic,152
+22395154,Party Supplies,52
+22395155,School Supplies,105
+22395156,Sewing & Shoe Care,15
+22395157,Supplies & Maintenance,124
+22395158,Tobacco,4
+22395159,Water Softeners & Filters,1
+22395160,Asian,31
+22395161,Hispanic,958
+22395162,Indian,2
+22395163,Kosher,7
+22395164,Boxed Meals,8
+22395165,Macaroni & Cheese,28
+22395166,Pasta & Noodle Dinner Kits,14
+22395167,Pizza Kits,2
+22395168,Potatoes & Stuffing,21
+22395170,Taco & Dinner Kits,1
+22395171,Gluten Free,1
+22395172,Pasta & Noodles,197
+22395173,Pasta Sauce,97
+22395175,Honey,21
+22395176,Jams & Preserves,27
+22395177,Jellies,19
+22395178,Marmalades,6
+22395180,Peanut Butter,42
+22395181,Bird,2
+22395182,Cat,78
+22395183,Dog,127
+22395185,Small Animal,3
+22395186,Brown Rice,7
+22395188,Couscous,3
+22395189,Dried Beans,31
+22395190,Instant,4
+22395192,Quinoa,4
+22395193,Rice Dishes & Mix,58
+22395194,White Rice,30
+22395195,Wild Rice,1
+22395196,Oil & Vinegar,105
+22395197,Salad Dressing,158
+22395198,"Chips, Crisps, Pretzels",233
+22395199,Cookies,185
+22395200,Crackers,153
+22395201,"Doughnuts, Pies & Snack Cakes",71
+22395202,Dried Goods,6
+22395204,Jerky & Dried Meats,1
+22395205,"Nuts, Seeds & Mixes",67
+22395206,Packaged Candy,380
+22395207,Popcorn,33
+22395208,Prepared Candy & Nuts,17
+22395210,"Salsa, Dips & Spreads",50
+22395212,"Snack Bars, Fruit Snacks & Pudding",51
+22395213,Fresh Fruit,72
+22395214,Apples,13
+22395215,Bananas & Plantains,6
+22395216,Berries & Cherries,4
+22395217,Citrus,12
+22395218,Dried Fruit,8
+22395219,Figs & Dates,1
+22395220,Grapes,1
+22395222,Melons,3
+22395223,Packaged,2
+22395224,Pears,3
+22395225,Stone Fruit,5
+22395226,Tropical & Specialty,12
+22395227,Asian,2
+22395228,Asparagus & Artichokes,2
+22395229,Avocados,2
+22395230,Beans & Peas,2
+22395231,Broccoli & Cauliflower,4
+22395232,Brussel Sprouts & Cabbage,3
+22395233,Carrots & Beets,7
+22395234,Celery,4
+22395235,Corn,2
+22395236,Cucumbers,3
+22395237,Dried Vegetables,9
+22395239,Hispanic,1
+22395240,Onions & Garlic,24
+22395241,Packaged,2
+22395242,Peppers,19
+22395243,Potatoes & Yams,5
+22395244,Radishes,1
+22395246,Squash & Zucchini,5
+22395247,Tomatoes,7
+22395248,Fruit,16
+22395249,Vegetables,5
+22395250,Fresh Herbs,14
+22395251,Mushrooms,2
+22395252,Packaged Herbs,7
+22395253,Leafy Greens,6
+22395254,Lettuce,4
+22395256,Salad Mixes,13
+22395257,Salad Toppings,4
+22395258,Sprouts & Microgreens,1
+22395260,Organic Fruits,1
+22395264,Organic Vegetables,1
+22395265,Buns,3
+22395266,Rolls,3
+22395267,Buns,26
+22395268,Rolls,9
+22395269,Cheesecakes,5
+22395270,Fruit & Pound Cakes,2
+22395272,Sheet & Cut Cakes,2
+22395273,"Biscotti, Biscuits & Scones",5
+22395274,"Butter, Sugar & Shortbread Cookies",5
+22395275,Chocolate & Chocolate-Chip Cookies,2
+22395276,Fruit Cookies,3
+22395277,"Ginger Snaps, Pizzelles & Wafers",4
+22395280,Nut Cookies,1
+22395282,Sandwich Cookies,2
+22395283,Brownies,2
+22395284,Cinnamon Rolls,2
+22395285,Coffee Cake & Strudel,2
+22395286,Danishes & Kringle,6
+22395287,Donuts,18
+22395288,Turnovers,4
+22395290,Cabernet Sauvignon,50
+22395291,Malbec,7
+22395292,Merlot,24
+22395293,Pinot Noir,16
+22395294,Syrah or Shiraz,3
+22395296,Chardonnay,25
+22395297,Pinot Grigio,13
+22395298,Riesling,1
+22395299,Sauvignon Blanc,12
+22395300,White Zinfandel,15
+22395301,Blue,2
+22395304,Colby & Monterey Jack,1
+22395305,Gouda,3
+22395306,"Havarti, Muenster & Brick",1
+22395307,Hispanic,22
+22395308,Italian Cheese,6
+22395309,"Mixed Milk, Goat, Sheep & Feta",6
+22395311,Parmesan & Romano,2
+22395312,"Shredded, Grated & Cubed",11
+22395314,Soft Ripened & Brie,5
+22395316,American,12
+22395317,Blends,7
+22395318,Blue,2
+22395319,Brie,1
+22395320,Cheddar,27
+22395321,Colby,3
+22395322,Feta,5
+22395324,Gouda,5
+22395325,Havarti,3
+22395328,Monterey Jack,3
+22395329,Mozzarella & Ricotta,24
+22395330,Muenster,4
+22395331,Parmesan,11
+22395332,Pepper Jack,3
+22395333,Provolone,3
+22395334,Ricotta,2
+22395335,Swiss,8
+22395336,Velveeta,3
+22395337,Cheese Spreads & Dips,15
+22395338,Cream Cheese,27
+22395339,Pate and Charcuterie,3
+22395340,"String, Curds & Snack Cheeses",23
+22395341,Creamers,25
+22395342,Half & Half,25
+22395343,Heavy Cream,2
+22395344,Whipped,4
+22395345,1% Milk,6
+22395346,2% Milk,5
+22395348,Canned,18
+22395349,Chocolate & Flavored,18
+22395350,Lactose Free,15
+22395351,Organic,9
+22395352,Skim & Nonfat,6
+22395353,Vitamin D,1
+22395354,Whole Milk,13
+22395371,Candy,1
+22395372,Chocolate,9
+22395373,Chocolate Chip & Mint,4
+22395374,Cookie Dough,4
+22395375,Fruit Flavors,6
+22395376,Neapolitan,5
+22395377,Non Dairy,1
+22395378,Other,26
+22395379,Vanilla,17
+22395381,Incense,2
+22395382,Jar Candles,8
+22395383,Pillar Candles,1
+22395387,Coffee & Tea,1
+22395388,Dishware,5
+22395389,Kitchen Tools & Serving,100
+22395391,Canned & Bottled Drinks,14
+22395392,Creamers & Sweeteners,14
+22395393,Filters,9
+22395394,Ground,42
+22395395,Iced,1
+22395396,Instant,44
+22395397,"Single Serve, K-Cups & Pods",18
+22395398,Whole Bean,2
+22395399,Apple,25
+22395401,Cranberry,30
+22395403,Fruit & Berry,46
+22395404,Grape,13
+22395406,Juice Boxes,39
+22395407,Lemon Juice & Lemonade,12
+22395408,Lime Juice & Limeade,4
+22395409,Orange,6
+22395410,Pineapple,8
+22395411,Pomegranate & Berry,1
+22395412,Smoothies,15
+22395413,Sparkling Juice,8
+22395414,Sparkling Probiotics & Kombucha,5
+22395415,Vegetable & Tomato,24
+22395416,Apple,1
+22395417,Lemonade,2
+22395418,Orange,9
+22395419,Other Drinks,2
+22395420,Other Juices,2
+22395421,Mixes & Syrups,100
+22395422,Nutrition,18
+22395423,Cola,62
+22395424,Diet,13
+22395425,Fruit Flavors,30
+22395426,Ginger Ale,21
+22395427,Lemon-Lime & Citrus,71
+22395428,Root Beer & Cream Soda,36
+22395429,Black,5
+22395430,Canned & Bottled Drinks,4
+22395431,Chai,2
+22395432,Green,12
+22395434,Herbal,41
+22395435,Iced,47
+22395436,Instant,4
+22395440,Soothing,1
+22395441,Wellness,3
+22395443,Club Soda & Tonic,17
+22395444,Coconut,7
+22395445,Flavored,28
+22395446,Sparkling & Seltzer,46
+22395447,Spring,56
+22395448,Asian Soups & Ramen,41
+22395449,Bean,8
+22395450,Beef,9
+22395452,"Bouillon, Stocks & Broths",41
+22395453,Chicken,32
+22395454,Chili,11
+22395455,Chowder,6
+22395457,Dry Soup Mixes,5
+22395458,Minestrone,1
+22395459,Mushroom,1
+22395460,Pea,1
+22395462,Tomato,3
+22395464,Vegetable,34
+22395466,Applesauce,30
+22395467,Berries,1
+22395468,Cherries,7
+22395469,Citrus,10
+22395470,Cranberry Sauce,2
+22395471,Dried Fruit,13
+22395473,Mixed Fruit,18
+22395474,Peaches,17
+22395475,Pears,7
+22395476,Pineapple,18
+22395477,Raisins,16
+22395479,Beef & Veal,5
+22395480,Ham,4
+22395482,Poultry,6
+22395483,Crab & Shrimp,1
+22395484,Oysters & Clams,7
+22395485,Salmon,6
+22395486,Sardines,28
+22395487,Tuna,62
+22395488,Asparagus & Artichokes,12
+22395489,Beans & Peas,142
+22395490,Beets,8
+22395491,Carrots,5
+22395492,Chopped Tomatoes,2
+22395493,Corn,20
+22395494,Crushed & Puree Tomatoes,2
+22395495,Diced Tomatoes & Pasta Paste,65
+22395496,Mixed Vegetables,14
+22395497,Onions & Garlic,11
+22395498,Other Tomatoes,1
+22395499,Peppers & Chilis,25
+22395500,Potatoes & Yams,4
+22395501,Pumpkin,2
+22395502,Sauerkraut,5
+22395503,Spinach,2
+22395505,Tomato Paste,4
+22395506,Tomato Sauce,6
+22395507,Water Chestnuts,1
+22395510,Horseradish,3
+22395511,Ketchup,15
+22395512,Mayonnaise,56
+22395513,Mustard,22
+22395514,Olives,40
+22395515,Pickles & Relish,80
+22395521,Asian Sauces & Oils,10
+22395522,Barbeque Sauce,27
+22395523,Chile Paste,4
+22395524,Cocktail Sauce,11
+22395525,Curry Sauce,3
+22395526,Gravy,40
+22395527,Gravy Mixes,2
+22395528,Hot Sauce,46
+22395529,Marinades,23
+22395531,Pesto,1
+22395532,Pizza Sauce,1
+22395534,Seafood,1
+22395535,Soy Sauce,10
+22395536,Steak Sauce,13
+22395537,Stir Fry,2
+22395538,Sweet & Sour,1
+22395539,Taco Sauce,4
+22395540,Tartar,4
+22395541,Teriyaki Sauce,5
+22395542,Biscuits,2
+22395543,"Bread, Muffin & Scone Mix",15
+22395544,Brownie Mix,11
+22395545,Cake & Cupcake Mix,19
+22395546,Cookie Mix,4
+22395549,Canola Oil,6
+22395550,Cooking Sprays,9
+22395551,Corn Oil,5
+22395552,More Oils & Shortening,9
+22395553,Olive Oil,16
+22395554,Sesame Oil,1
+22395555,Vegetable Oil,4
+22395566,Cosmetic Tools,1
+22395574,Bars,48
+22395575,Diet Aids,1
+22395576,Drinks & Shakes,4
+22395577,Electrolytes,3
+22395578,Energy Supplements,2
+22395583,Accessories,16
+22395584,Bar Soap & Body Wash,70
+22395588,Conditioner,23
+22395590,Hair Coloring,28
+22395592,Shampoo,62
+22395594,Styling Products,36
+22395596,Homeopathic Cough and Cold,1
+22395602,Allergy & Sinus,11
+22395603,"Cough, Cold & Flu Treatment",100
+22395604,Digestion & Nausea,49
+22395605,First Aid & Wound,74
+22395606,Pain Relief & Fever,60
+22395607,Sleeping & Snoring,7
+22395609,Deodorants & Antiperspirants,113
+22395610,"Ear, Nose & Throat Care",1
+22395611,Eye & Contacts Care,14
+22395612,Eyeglasses,2
+22395613,Feminine Care,45
+22395614,Footcare,4
+22395615,Incontinence,7
+22395616,Nail Care,19
+22395617,Oral Care,116
+22395618,Shaving & Grooming,45
+22395619,Facial,25
+22395620,Hand Soaps & Sanitizers,8
+22395621,Lip Care,1
+22395622,Lotion,43
+22395623,Sunscreen,4
+22395624,Adult Multivitamins,5
+22395625,"Beverage, Supplements",1
+22395627,Children's Multivitamins,3
+22395628,Diet Formulas,1
+22395631,Health Supplements,10
+22395636,Minerals & Supplements,6
+22395637,Multivitamins,1
+22395639,Over-The-Counter Medications,1
+22395642,"Supplements, Specialty",2
+22395644,Vitamin A-K,3
+22395645,Vitamin B,2
+22395646,Vitamin C,3
+22395648,Vitamin D,3
+22395649,Vitamin E,1
+22395654,"Aluminum Foil, Cling Wrap & Wax Paper",14
+22395655,Bakeware & Cookware,95
+22395656,Baking & Cooking Accessories,41
+22395657,Plastic Bags,51
+22395658,Plastic Containers,33
+22395659,Air Fresheners,64
+22395660,Bathroom,25
+22395661,Bleach,9
+22395662,Cleaning Tools & Sponges,97
+22395663,Cleaning Wipes,23
+22395664,Floor Cleaners,11
+22395665,Glass Cleaners,6
+22395666,Multi-Purpose,40
+22395667,Polishes & Wax,8
+22395668,Liquid,15
+22395669,Pods,1
+22395670,Powder,1
+22395671,Soap,9
+22395674,Bleach,5
+22395675,Dryer Sheets,1
+22395676,Liquid,41
+22395677,Pods,4
+22395678,Powder,10
+22395679,Stain Remover & Softener,33
+22395680,Biodegradable Bags,1
+22395681,Facial Tissue,3
+22395682,Paper Towels,7
+22395683,Tableware & Serveware,103
+22395684,Toilet Paper,11
+22395685,Trash Bags,21
+22395686,Sewing,2
+22395687,Shoe Care,13
+22395688,Automotive,6
+22395689,Batteries & Lighting,51
+22395690,Electronics,8
+22395691,Pest Control,28
+22395692,Tools & Repair,17
+22395694,Accessories,2
+22395699,Asian & Rice Noodles,11
+22395700,Curls & Spirals,10
+22395701,Egg Noodles,3
+22395702,Lasagna,6
+22395703,Long Cut,30
+22395704,Organic & All Natural,2
+22395705,Ravioli,11
+22395706,Refrigerated & Fresh,3
+22395707,Tubes & Shells,32
+22395708,Whole Grain,7
+22395709,Creamy & Cheesy,9
+22395710,Marinara,15
+22395711,Meat,5
+22395712,Mushroom,3
+22395716,Tomato & Basil,39
+22395717,Vegetable,5
+22395718,Vodka,3
+22395719,Cat Food,54
+22395720,Cat Toys,3
+22395721,Cat Treats,7
+22395723,Grooming,1
+22395724,Litter,9
+22395725,Bones & Toys,12
+22395726,Collars & Leashes,4
+22395727,Dog Food,72
+22395728,Dog Treats,24
+22395729,Grooming,8
+22395732,Coconut,10
+22395733,Olive,38
+22395736,Vinegars,56
+22395738,Blue Cheese,9
+22395739,Caesar,10
+22395740,Croutons,40
+22395742,French,6
+22395743,Italian,20
+22395744,Low-Fat & Light,8
+22395745,Mustard,4
+22395746,Ranch,23
+22395747,Thousand Island,7
+22395748,Vinaigrette,20
+22395749,Yogurt,3
+22395750,Bagel Chips,3
+22395751,Cheese & Puffed Snacks,20
+22395752,Corn,6
+22395753,Gluten Free,2
+22395754,Pita,6
+22395755,Potato,54
+22395756,Pretzels,11
+22395757,Pringles,18
+22395758,Rice & Rice Cakes,1
+22395759,Snack Mixes,15
+22395761,Tortilla,26
+22395762,Vegetable,22
+22395763,Animal,2
+22395764,Biscuits,16
+22395765,Chocolate & Chocolate Chip,33
+22395766,Fruit & Wafers,24
+22395767,Ginger & Molasses,4
+22395768,Gluten-Free,4
+22395769,Iced,1
+22395770,Oatmeal,4
+22395771,Peanut Butter & Nut,3
+22395772,Sandwich,6
+22395773,Shortbread,6
+22395774,Sugar,2
+22395775,Sugar-Free,6
+22395776,Breadsticks,7
+22395777,Butter & Pretzel,7
+22395778,Cheese,36
+22395779,Gluten Free,3
+22395780,Graham,4
+22395781,Kosher,2
+22395782,Rice & Pita,2
+22395783,Saltine,10
+22395784,Sandwich,9
+22395785,Water & Specialty,8
+22395786,Wheat & Multi-Grain,9
+22395787,Almonds,9
+22395788,Cashews,2
+22395790,Mixed Nuts,7
+22395791,Peanuts,16
+22395792,Pecans,3
+22395793,Pistachios,4
+22395795,Sunflower Seeds,1
+22395796,Trail Mix,6
+22395797,Bars,12
+22395798,Caramels,5
+22395799,Chewing Gum,81
+22395800,Chocolate,97
+22395801,Gummy Candy,14
+22395802,Hard Candy,13
+22395803,Jelly Beans & Fruity Candy,11
+22395804,Lollipops & Suckers,4
+22395805,Mints,27
+22395806,Sugar Free & Dietetic,1
+22395809,Popped,5
+22395810,Unpopped,18
+22395812,Chocolate,1
+22395813,Nuts,10
+22395814,"Snacks, Chips & Crisps",4
+22395815,Fresh & Refrigerated,7
+22395816,Packaged,39
+22395817,Fruit Snacks,7
+22395818,Granola,21
+22395819,Jello & Pudding,6
+22395820,Refrigerated Jello & Pudding,7
+22395821,Dry Milk,15
+22395822,Chocolate Drink Mixes,24
+22395823,Flavoring Syrups,3
+22395824,Powdered Drink Mixes,58
+22395825,Powdered Milk,6
+22395827,Meal Replacements,1
+22395828,Powders,1
+22395829,Ready to Drink,16
+22395830,Flavored,7
+22395831,Black,2
+22395833,Flavored,22
+22395834,Green,4
+22395835,Herbal,2
+22395836,Baked,17
+22395837,Black,12
+22395838,Chickpeas,4
+22395839,Chili & Kidney,15
+22395840,Green,27
+22395842,Peas,9
+22395843,Pinto,6
+22395844,Red,3
+22395845,Refried,12
+22395846,White,2
+22395847,Cough Drops,25
+22395848,Cough Syrups,8
+22395849,Multi-Symptom Relief,35
+22395850,Nasal Sprays,9
+22395851,Vapor Rubs,6
+22395852,Antacids,20
+22395853,Diarrhea Relief,4
+22395854,Gas Relief,4
+22395855,Laxatives,16
+22395857,Bandages,43
+22395858,Cotton Balls & Swabs,5
+22395859,First Aid Kits,1
+22395860,Ointments & Cream,19
+22395861,Tape & Gauze,2
+22395862,Aspirin,7
+22395863,Children's Relief,9
+22395864,Hot & Cold Relief,3
+22395865,Ibuprofen,20
+22395866,Migraine,2
+22395867,Naproxen,1
+22395868,Non-Aspirin,6
+22395869,Rubs & Ointment,4
+22395870,Men's Deodorants,59
+22395871,Women's Deodarants,33
+22395872,Dentures,4
+22395873,Floss,8
+22395874,Mouthwash,29
+22395875,Toothbrushes,13
+22395876,Toothpaste,58
+22395878,Disposable Razors,8
+22395879,Reusable Razors & Blades,6
+22395880,Shaving Cream & Gel,25
+22395881,Cleansers,17
+22395883,Lip Balm,2
+22395884,Masks and Toners,1
+22395885,Moisturizers,2
+22395904,Fish Oil and Omegas,5
+22395906,Immune System,2
+22395910,Natural Supplements,1
+22395928,Bowls,7
+22395929,"Cups, Lids & Straws",24
+22395930,Napkins & Table Covers,22
+22395931,Plates,24
+22395932,Utensils,16
+22395933,Cleaner & Polish,11
+22395934,Laces & Accessories,2
+22395937,High-Fiber,5
+22395940,Guacamole,1
+22395941,Hummus,4
+22395942,Ranch,1
+22395944,Veggie,1
+22395945,Cheese & Bean Dips,5
+22395946,French Onion & Ranch,5
+22395947,Hot Salsa,3
+22395948,Medium Salsa,12
+22395949,Mild Salsa,4
+22395950,Salsa,4
+22395951,Salsa Verde,3
+22571166,Catering,46
+22698274,Household Essentials,65
+22718248,Wine Collection,15
+22720611,Pepsi,82
+22741774,Hot Sauce Recipe,14
+22741775,Mini Fridge ASMR,14
+22761682,Weekly BOGO,9
+22823056,Red or White Onions,2
+22839848,Blue Bunny Ice Cream,58
+22840627,Meals on a Budget,14
+22841638,Sedano’s Ice Creams,14
+22849043,Tide/Gain,8
+22860095,Mac n Cheese,11
+22883275,Planet Oat 2/$5,3
+22883295,Valentini Ice Cream,8
+22890843,Tropicana Orange Juice or Juice Blends,15
+22892351,Organic,94
+22893033,Dole Salads,23
+22897233,David Killer's Bagel BOGO,4
+22901301,Blue Bell Ice Cream Special,6
+22903579,Sedano's Brand,478
+22904877,Crisco Oil BOGO,3
+22904883,Mueller's Pastas BOGO,16
+22904927,Charcuterie Board Items,86
+22909113,Sedano's Whole Frozen Turkey,1
+22909121,Los Riscos F/Page,7
+22911777,Sedano's Nectars,4
+22915453,Compare and Save,683
+22915455,Ariel,5
+22915459,Goya,506
+22919399,Frontera Wines,2
+22922343,Nestle Deal,7
+22922985,Del Monte Hard Green or Ripe Bananas,2
+22922987,Kellogg's Special K Cereals,9
+22928997,Grab-n-Go,6
+22945293,Frito Lay's Multipack,9
+22954123,Build Your Own Smoothie,38
+22971347,P.A.N Corn Meal,2
+22975435,Mini Platters,12
+22975437,Platters,13
+22975439,Combo Meals for 10,15
+22975459,Quick Meals,64
+22975461,Heat and Eat Foods,16
+22975463,Heat and Eat Sandwiches,13
+22975465,Salads,7
+22975467,Combo Meals for 1,8
+22975469,Combo Meals for 4,1
+22975471,Foods By Pound,10
+22975473,Soups,2
+22975475,Hot Sandwiches,7
+22978101,"Coronita, Modelito, Heineken",1
+22978103,California Oranges,1
+22984125,CAP'N CRUNCH,3
+22986253,Utz Chips,7
+22986303,Bauducco,31
+22986305,Klass,25
+22986323,Malt o Meal,28
+22986327,La Yogurt,74
+22986331,Jarritos,31
+22986333,Conchita,91
+22986335,Mission Foods,24
+22986337,Guerrero Foods,9
+22986339,Batey,13
+22986341,Blue Sky Eggs,1
+22986343,Oreo,68
+22986345,Ritz,22
+22986347,Jack Links,9
+22986467,Postobon,14
+22986469,Colombiana,2
+22986473,Mariquitas Snacks,19
+22986877,Iberia Beans in Salt and Water,5
+22987563,Vita Nuova,1
+22987575,Violife,1
+23005251,Red or Green Seedless Grapes,2
+23011885,Mott's Apple Sauce 6Pk,1
+23011887,Mott's Apple Juice 64 Oz,1
+23013275,Hellmann's Mayonnaise 30 oz,5
+23013277,Hellmann's Mayonnaise 11.5 Oz,7
+23013279,Knorr,3
+23013281,Maizena Corn Strach,1
+23013817,Hellmann's Mayonnaise,12
+23015659,Nabsico,4
+23015663,Dannon Danimals,5
+23016899,Hunt's Snack Pack Vanilla Pudding,1
+23016905,Act II Popcorn,4
+23016907,Chef Boyardee Pastas,9
+23016913,Gamesa Sweet Mix Cookies,1
+23016921,Yo Crunch Yogurt,3
+23017163,Caprisun Drinks,13
+23020455,Parmalat,3
+23020457,"Pillsbury Cake or Brownie Mix, and Frosting",22
+23020467,Nissin Soups,24
+23021747,Bustelo Coffee,1
+23021749,Blue Triton Pure Life,1
+23021753,Lala Milk,2
+23021755,Lala Low Fat Milk,2
+23021757,Cloralen Bleach,4
+23021759,Goya Crackers,1
+23021763,Batey,1
+23022135,LAFE,3
+23025069,Sedano's Ice Cream,13
+23025719,Romaine or Green leaf Lettuce,2
+23025743,Pan,5
+23025869,"Baby Ruth, Crunch, Butterfinger, Kinder Joy",3
+23025873,Mars Chocolate,6
+23025875,Kraft Caramels,1
+23025877,Hersheys & Kit Kat,8
+23025883,Haribo Scary Mix,1
+23036085,Horizon Milk,3
+23038213,Wholesale Flowers,4
+23042077,Imported Fresh Pork Belly,1
+23042093,Dux Crackers,2
+23043333,Wholesale Roses,1
+23043349,Wholesale Hybrid Lilies,1
+23044269,Sedano's Grade A Milk,4
+23044271,Entenmann's Loaf Cakes,8
+23045363,Red Delicious Fuji Granny Smith Apples,3
+23060041,Sedano's Grade A Whole Turkey,4
+23060657,Breyers Ice Cream,30
+23060835,Castillo de Jijona,21
+23060837,Los Riscos Wines,7
+23061549,Tampico Punch,5
+23061711,Fresh Chicken Leg Quarters,2
+23061713,Badia Complete Seasoning or Granulated Garlic,2
+23073495,Sunchy Nectars,17
+23073847,Ironbeer or Lanio Sodas or Sunchy Malta,4
+23074545,Corona/Modelo Beer,12
+23075371,Green or Red Pepper,2
+23075373,Sedano's Plantain Chips,2
+23077735,Mazola Oil,3
+23077737,Bounty Essential Paper Towel or Charmin Essential  Bath Tissue,3
+23078357,Strawberries or Blackberries,2
+23078815,Petit Nectars,1
+23079105,Fair Essentials,50
+23079107,Petit,13
+23079109,Bumble Bee Tuna,2
+23079111,Mazola,4
+23079413,El Viejo Luis,31
+23079805,Mazola Oil 96 Fl Oz,3
+23080155,Fresh Pork Spare Ribs or Pork Tenderloin Boneless Cry O Vac,1
+23080157,Yogurico Yogurt,5
+23080527,"Heineken, Coronita, Modelito, Dos Equis Beer",3
+23080757,Goya Beans,5
+23081009,Beef Loin Sirloin Cap Whole Cry O Vac or Beef Bottom Sirloin Butt Flap Meat,3
+23081607,Fresh Pork Loin Sirloin Roast or Pork Tenderloin Boneless Cry O Vac,2
+23081611,Haagen Dazs Ice Cream or Bars,12
