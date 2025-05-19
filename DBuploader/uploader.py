@@ -309,16 +309,16 @@ def main(brand_name: str ):
 
 
 
-# conn = psycopg2.connect(
-#             dbname="postgres",
-#             user="postgres",
-#             password="123456",
-#             host="localhost",
-#             port="5432"
-#         )
-# create_schemas(conn)
-# main(brand_name="sedanos")
-# main(brand_name="cotsco")
+conn = psycopg2.connect(
+            dbname="postgres",
+            user="postgres",
+            password="123456",
+            host="localhost",
+            port="5432"
+        )
+create_schemas(conn)
+main(brand_name="sedanos")
+main(brand_name="cotsco")
 
 
 
@@ -345,7 +345,7 @@ def prices(brand_name: str):
         print(f"✅ Marca '{brand_name}' con ID: {brand_id}")
 
        
-        file_path = f'./data/{brand_name}_item_prices_15_05.csv'
+        file_path = f'./data/{brand_name}_item_prices.csv'
 
         # Cargar mapas
         store_map = build_store_mapping(conn, brand_id)

@@ -1,0 +1,11 @@
+"cadena","name","upc","size","product_brand","price","created_at","dispersion","tiendas_con_producto","address","city","state"
+sedanos,"Gayo Azul Cheese Ball, Edam 30 Oz","64443990002","30 oz",,23.99,2025-05-14 15:59:06.000,10.00,3,"12981 South Orange Blossom Trl",Orlando,FL
+sedanos,Peeled & Deveined Shrimp 21/25 Count,"23514900000",lb,,16.69,2025-05-13 23:19:05.000,8.70,3,"5660 Curry Ford Rd",Orlando,FL
+sedanos,Don Vincente Manchego Cheese,"81596101009","2.15 oz",,37.99,2025-05-13 23:19:05.000,8.00,3,"5660 Curry Ford Rd",Orlando,FL
+sedanos,Beef Loin Top Loin Boneless,"23424500000",lb,,12.49,2025-05-16 08:44:02.000,7.50,3,"3801 West Flagler Street",Miami,FL
+sedanos,Lobster Tail,"23513000000",lb,,26.59,2025-05-13 23:19:05.000,6.60,3,"5660 Curry Ford Rd",Orlando,FL
+sedanos,Conch Meat,"23512400000",lb,,13.29,2025-05-17 12:14:56.000,6.30,3,"5660 Curry Ford Rd",Orlando,FL
+sedanos,Oscar Mayer Thick Cut Bacon 16 oz,"4470001990","16 oz",,9.99,2025-05-16 08:44:02.000,6.00,3,"5660 Curry Ford Rd",Orlando,FL
+sedanos,"Oscar Mayer Bacon, Original 16 oz","4470001988","16 oz",,9.99,2025-05-17 12:14:56.000,6.00,3,"3801 West Flagler Street",Miami,FL
+cotsco,"Maison Perrier Sparkling Water, 16.9 fl oz, 24-count","074780620888",,['Perrier'],25.99,2025-05-13 12:35:20.000,6.00,3,"4696 GARDENS PARK BLVD",ORLANDO,FL
+sedanos,"Oscar Mayer Bacon, Lower Sodium 16 oz","4470001991","16 oz",,9.99,2025-05-15 12:27:24.000,6.00,3,"12981 South Orange Blossom Trl",Orlando,FL
